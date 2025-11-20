@@ -1,0 +1,5 @@
+{
+  "name": "QueVeoHoy",
+  "description": "Una aplicación inteligente de recomendación de cine basada en tus gustos y estado de ánimo, con una interfaz de deslizamiento estilo Tinder.",
+  "requestFramePermissions": []
+}
